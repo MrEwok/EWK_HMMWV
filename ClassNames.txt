@@ -1,0 +1,65 @@
+Classnames:
+
+			"EWK_m1151_m2_deployment"
+
+			"EWK_m1151_m2_deployment_Jtac"
+
+			"EWK_m1151_m2_deployment_AT4"
+
+			"EWK_m1151_m2_deployment_Bumper"
+
+			"EWK_HMMWV_Light"
+
+			"EWK_HMMWV_Medevac"
+
+			"EWK_M997A2_Ambulance"
+
+			"EWK_M997A2_Ambulance_Tan"
+		
+			"EWK_M1114_Armored"
+
+			"EWK_M998A2_sov"
+
+			"EWK_m1151_TOW_deployment"
+
+			"EWK_m1151_m240_deployment"
+
+			"EWK_m1151_mk19_deployment"
+
+			"EWK_m1151_m2_deployment_WOODLAND"
+
+			"EWK_m1151_m240_deployment_Woodland"
+
+
+////////////////////////////////////////////TESTS OR WIP///////////////////////////////////////////
+	
+
+			"EWK_M998A2_sov_M2"
+
+			"EWK_m1151_m2_deployment_Test"
+
+
+///////////////////////////////////////////In Progress ///////////////////////////////////////////
+
+			"EWK_m1151_m2_Gyrocam"
+
+			"EWK_m1151_m2_Gyrocam_deployment"
+
+			"EWK_M998_Terminal"
+
+			"EWK_GMV_S_SOF"
+
+			"EWK_M998A2_Avenger"
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Weapons ClassNames:
+
+			"HMG_M2"
+
+			"BAF_L2A1"
+	
+			"EWK_M240_veh"
+
+			"EWK_TOW_Launcher"
