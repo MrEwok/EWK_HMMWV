@@ -1,0 +1,97 @@
+V0.3.9.2b (Internal Version)
+
+-Added custom rt1523 on almost all hmmwv's variants (except medevac , light and SOV M2 )
+-Added Turn In/out option For gunner (i'm still experiencing an issue were if you get out when turned in you cannot get in Gunner direclty wich mean you have to get in cargo with at least 3 cargo sit already used)
+-Added New textures on the humvee TOW (Turret and FTL )
+-Added M1151 Mk19 deployment
+-Added Openable trunk on M1114 armored (still an error in action entry due to stringtabilisation so it display the string call instead of proper action name (Should be fixed really soon in fact it is already))
+-Fixed texture bug on frag6 view gunner
+-Fixed All zeroing are now working properly
+-Fixed A few texture error popups (some still occur)
+-Reworked Resolution LOD's for almost all variants
+-Reworked Some engine sounds (internal and external view)
+
+
+V0.3.9.2 (Internal Version)
+
+-Mod is now STANDALONE (Wich mean the weight as been increased to approximatively 416Mo) 				- (Done)
+-Fixed Destruction textures/material/hide										- (WIP)
+-Fixed M2 on the "M998A2 sov M2" 											- (TODO)
+-Fixed FFV on the "M998A2 sov M2" 											- (WIP)
+-Fixed ambulance backdoors glitch (wich mean now you can't repack the stairs if the doors are closed)			-(WIP)
+-Added Sounds for Open/close door											-(WIP)
+-Added NEW RT1523 for all equipped humvees										-(WIP)
+-Added NEW RT1523 Custom UI for TFAR											-(WIP)
+-Added Deployable Camonet on all hmmwv's (TODO: Make the camonet Increase stealth)					-(TODO)
+-Added Upgraded destruction effects (Add a few degradation state based on damage)					-(WIP)
+-Added french and english language support										-(WIP)
+-Added Full JSRS DFyre compatibility 											-(Done)
+-Added Woodland camo for all HMMWV's 											-(WIP)
+-Added "Team color" module wich change the color of the front flag (red by default) for every syncronized hmmwv's 	-(Done)
+-Added Light on gauges 													-(WIP)
+-Added Unbinarized version with commented config and model.cfg								-(TODO/WIP)
+-Added Optionnal config for US RHS units in HMMWV's (require RHS)							-(TODO)
+-Added Rotating light on amulances											-(TODO)
+-Added Ambulance Backlights are now activable when reflectors are On (Activated By default)				-(Done)
+-Removed all "NBL" version												-(Done)
+-Removed all HAFM dependencies												-(Done)
+-Reworked distance LOD's												-(WIP)
+
+
+V0.3.8:
+
+-Added Slingload compatibility for all HMMWV
+-Added Firing from vehicle on SOV variant
+
+V0.3.7:
+-Internal WIP (never released)
+
+V0.3.6b:
+
+-Fixed zeus compatibility for :
+"EWK_M997A2_Ambulance_NoBackLights"
+"EWK_M997A2_Ambulance_Tan_NoBackLights"
+"EWK_M998A2_sov_M2"
+-Fixed wrong facing icon
+-Added bikey and bisign
+
+V0.3.6:
+
+-Fixed Frag6 inside bags
+-Fixed zeus compatibilty
+-Fixed M1114 gunner proxy on all lod's
+-Added deployable camonet (desert/woodland) on M1151_M2_Deployment
+
+V0.3.5b:
+
+-fixed M240 anims and ammo
+-fixed some errors in ambulance textures
+-fixed external destruction rvmat for ambulances
+-fixed frag6 texture issue trought the windows in 1st LOD
+-added ambulance with backlights variant (variant are gonna be removed when i've the user action on/off working)
+-added walkable back compartment on ambulance
+-fixed ambulance stairs can't be open if backdoors 1 and 2 aren't open
+-fixed cfgNonAiVehicles error spamming
+
+V0.3:
+-Added SOV_M2 variant (wip)
+-Fixed crate issue
+-Fixed WaterDammage/Resistance
+-Fixed some destruction effects
+-M240 should now spawn with ammo
+
+V0.2:
+I have renamed the @EWK_M1151 folder to @EWK_HMMWV so be sure to delete or replace the old pbo.
+-Added Bikey.
+-Mod is now binarized
+-Fixed wheel issue
+-Fixed view gunner too zoomed
+-Fixed Game freeze at spawn
+-Fixed some texture errors
+-Added EWK prefix to classNames
+-Weight reduced to 299Mo
+
+V0.1:
+-Initial release
+
+
