@@ -1,10 +1,10 @@
 V0.3.9.2b (Internal Version)
-
+-Added New Bumper on frag6
 -Added custom rt1523 on almost all hmmwv's variants (except medevac , light and SOV M2 )
--Added Turn In/out option For gunner (i'm still experiencing an issue were if you get out when turned in you cannot get in Gunner direclty wich mean you have to get in cargo with at least 3 cargo sit already used)
+-Added Turn In/out option For gunner (Fixed and Upgraded By NorX Aengell)
 -Added New textures on the humvee TOW (Turret and FTL )
 -Added M1151 Mk19 deployment
--Added Openable trunk on M1114 armored (still an error in action entry due to stringtabilisation so it display the string call instead of proper action name (Should be fixed really soon in fact it is already))
+-Added Openable trunk on M1114 armored
 -Fixed texture bug on frag6 view gunner
 -Fixed All zeroing are now working properly
 -Fixed A few texture error popups (some still occur)
